@@ -12,7 +12,7 @@ If you have any questions or improvements to make, please contact me through kim
 
 *  Ligand-Protein Docking in English [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Docking_in_Colab(ENG).ipynb)
 
-*  Protein MD simultion [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Protein_MD_in_Colab.ipynb)
+*  Protein MD simultion in English [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Protein_MD_in_Colab.ipynb)
 
 *  Protein MD simulation in Korean [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Protein_MD_in_Colab_(KOR).ipynb)
 
