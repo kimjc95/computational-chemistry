@@ -1,8 +1,7 @@
 Computational Chemistry for Fun
 ===============================
 
-If you want to cite this work, please use this DOI link for Zenodo [![DOI](https://zenodo.org/badge/732899340.svg)](https://zenodo.org/doi/10.5281/zenodo.13283986) 
-
+If you want to cite this work, please use this DOI link for Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13283986.svg)](https://zenodo.org/doi/10.5281/zenodo.13283986) 
 
 Codes were written by Joo-Chan Kim at Molecular Synthetic Biology Laboratory in Korea Advanced Institute of Science and Technology (http://msbl.kaist.ac.kr).
 
