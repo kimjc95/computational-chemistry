@@ -1,11 +1,12 @@
 #!/bin/bash
 
 # CHANGE THE ENV_NAME & CUDA_VERSION ACCORDINGLY!
-
 ENV_NAME="MD"
 CUDA_VERSION="12.1"
 
-# Installation
+# After the installation, run following lines:
+# $ conda activate ENV_NAME
+# $ jupyter notebook
 
 conda create -n $ENV_NAME python=3.10 -y
 
@@ -17,7 +18,7 @@ mamba install -c pytorch -c nvidia -c conda-forge pytorch pytorch-cuda=$CUDA_VER
 
 mamba install -c conda-forge -c bioconda reduce ipywidgets=7 nglview parmed rdkit pdbfixer openbabel plotly mdtraj lxml numpy tqdm 
 
-pip install mace-torch pdb2pqr
+pip install mace-torch pdb2pqr jupyter
 
 if [ -f /etc/centos-release ]; then
     echo "CentOS detected. Installing openbabel using yum..."
