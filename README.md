@@ -7,13 +7,11 @@ Codes were written by Joo-Chan Kim at Molecular Synthetic Biology Laboratory in 
 
 If you have any questions or improvements to make, please contact me through kimjoochan@kaist.ac.kr .
 
-*  Ligand-Protein Docking in Korean [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Docking_in_Colab(KOR).ipynb)
+*  Structure prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Boltz_on_Colab.ipynb)
 
-*  Ligand-Protein Docking in English [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Docking_in_Colab(ENG).ipynb)
+*  Ligand-Protein Docking [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Docking_in_Colab(ENG).ipynb)
 
-*  MD simulation in Korean [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/MD_in_Colab(KOR).ipynb)
-
-*  MD simulation in English [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/MD_in_Colab(ENG).ipynb)
+*  MD simulation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/MD_in_Colab.ipynb)
 
 ----------------------------------
 **Video Tutorial**
