@@ -7,7 +7,7 @@ Codes were written by Joo-Chan Kim at Molecular Synthetic Biology Laboratory in 
 
 If you have any questions or improvements to make, please contact me through kimjoochan@kaist.ac.kr .
 
-*  Structure prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Boltz_on_Colab.ipynb)
+*  Structure & Affinity Prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Boltz_on_Colab.ipynb)
 
 *  Ligand-Protein Docking [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Docking_in_Colab(ENG).ipynb)
 
